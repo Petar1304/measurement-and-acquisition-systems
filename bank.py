@@ -225,5 +225,6 @@ if __name__ == '__main__':
 
     ex.exited_bank.connect(worker.people_sub)
     thread.start()
-    
+
+    ex.show() 
     app.exec_()
