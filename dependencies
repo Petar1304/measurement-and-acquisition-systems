@@ -1,0 +1,10 @@
+# arduino dependencies
+rfid-master
+TimerOne-master
+TM1637-master
+
+# python dependencies
+pyqt5
+pyserial
+
+
